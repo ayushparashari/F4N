@@ -266,6 +266,12 @@
 .tag--vegan {
   background-color: #94d82d;
 }
+.tag--non-veg {
+  background-color: #e94d4d;
+}
+.tag--low-carb {
+  background-color: #1babe4;
+}
 .tag--paleo {
   background-color: #ffd43b;
 }
@@ -359,7 +365,7 @@
 .pricing-plan {
   border-radius: 11px;
 
-  width: 75%;
+  width: 50%;
 }
 .pricing-plan--starter {
   justify-self: end;
@@ -389,6 +395,7 @@
 .plan-header {
   text-align: center;
   margin-bottom: 4.8rem;
+  width: fit-content;
 }
 .plan-name {
   color: #cf711f;
