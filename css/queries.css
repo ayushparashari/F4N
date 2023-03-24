@@ -297,7 +297,7 @@ Instead 1rem = 1em = 16px */
 }
 
 .no-flexbox-gap .list-icon:not(:last-child) {
-  /* margin-right: 1.6rem; */
+   margin-right: 1.6rem; 
 }
 
 .no-flexbox-gap .delivered-faces {
